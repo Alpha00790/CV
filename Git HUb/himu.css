@@ -1,0 +1,82 @@
+#neon{
+	background:url(FuckMe.jpg) no-repeat !important;
+	background-size: cover !important;
+	
+
+}
+.col-md-6{
+	color: white;
+}
+.col-md-4{
+	color: white;
+	padding-top: 5% !important;
+}
+#burger{
+	background-size: cover !important;
+}
+.size{
+	width: 250px;
+	height: 200px;
+}
+h2{
+	color:#7c3c21;
+}
+.color{
+	color:#7c3c21;
+}
+.text-box {
+  position: relative;
+}
+
+.text {
+  color: #fff;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+.item{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+}
+.owl-theme .owl-dots,
+.owl-theme .owl-nav {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.red{
+color: #d92027;
+}
+.green{
+color: #79d70f;
+}
+.blue{
+color: #5c2a9d;
+}
+.btn.btn-outline-danger{
+	padding: 1% 35% 0% 42% !important;
+}
+#nav{
+	background:url(Harm.jpg) no-repeat !important;
+	background-size: cover !important;
+}
+header{
+	color:#7c3c21;
+}
+.btn-light{
+	color:red !important;
+	border-radius: 0% !important;
+}
+
+.navbar-nav li a:hover{
+  text-decoration: underline 3px solid #32e0c4;
+}
+.navbar-toggler{
+	border:2px solid red !important;
+	
+}
+.nav-link{
+	color:#7c3c21 !important;
+}
